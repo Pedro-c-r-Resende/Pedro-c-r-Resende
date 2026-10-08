@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amelia Resende</h1>
 <h3 align="center">A passionate Computer science student from 🇧🇷 with a great interest in cybersecurity and devops</h3>
- #0 windows hater
+<h4 align="center">#0️⃣ windows hater,this OS is so nervewrecking to use<h4>
 
 # 💫 About Me:
 🔭 I’m currently working on getting a cybersecurity certification<br>🤝 I’m looking for help with finding an entry level job <br>🌱 I’m currently learning cryptography and malware detection<br>💬 Ask me about devops using java and angular, as well as <br>cybersecurity, i have great interest in these fields/technologies<br>⚡ Fun fact i am a very good strategist
